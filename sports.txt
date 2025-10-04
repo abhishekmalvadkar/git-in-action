@@ -1,6 +1,6 @@
-- Cricket
-- Football
-- Chess
-- Swimming
-- Kabbadi
-- KhoKho
+* Cricket
+* Football
+* Chess
+* Swimming
+* Kabbadi
+* KhoKho
