@@ -5,3 +5,4 @@
 * Kabbadi
 * KhoKho
 * Table Tennis
+* Badminton
